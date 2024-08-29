@@ -1,3 +1,7 @@
+ /*Name: Chaithra BR
+Description: Stegnography
+Date: 29/08/2024*/
+
 #include <stdio.h>
 #include "encode.h"
 #include "types.h"
